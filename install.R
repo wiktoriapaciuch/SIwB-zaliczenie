@@ -1,8 +1,8 @@
-rworldmap
-ggplot2
-reshape2
-wordcloud2
-plyr
-ggridges
-gganimate
-RColorBrewer
+install.packages("rworldmap")
+install.packages("ggplot2")
+install.packages("reshape2")
+install.packages("wordcloud2")
+install.packages("plyr")
+install.packages("ggridges")
+install.packages("gganimate")
+install.packages("RColorBrewer")
