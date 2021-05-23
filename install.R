@@ -1,0 +1,8 @@
+rworldmap
+ggplot2
+reshape2
+wordcloud2
+plyr
+ggridges
+gganimate
+RColorBrewer
